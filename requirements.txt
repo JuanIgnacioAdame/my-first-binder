@@ -1,5 +1,4 @@
 pandas
-numpy
-plotly>=5.0.0
-dash>=2.0.0
-ipywidgets>=7.0.0
+plotly
+dash
+jupyter-server-proxy
