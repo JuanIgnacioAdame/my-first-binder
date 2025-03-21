@@ -1,9 +1,5 @@
-requests
 pandas
 numpy
 plotly>=5.0.0
 dash>=2.0.0
 ipywidgets>=7.0.0
-jupyterlab-plotly
-plotlywidget
-jupyter_contrib_nbextensions
