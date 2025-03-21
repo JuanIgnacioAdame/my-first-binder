@@ -1,0 +1,7 @@
+#!/bin/bash
+# Install JupyterLab Dash extension
+jupyter labextension install @jupyter-plotly/plotly-extension --no-build
+jupyter labextension install @jupyter-dash/jupyterlab-extension --no-build
+# Build JupyterLab with the new extensions
+jupyter lab build --minimize=False
+
